@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Moneycontrol",
+      "title": "xAI rolls out Grok Voice AI Agent Builder",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS3ZTMklnZmhoNlFmclA4UFVXcm5kMXctMnhTOFdJWGJweWUyRlBBenFUZVI2YVVKR3hwMFZLLUt6X1JJYzlCZXctN1ZBMWVEaXd2Sm5hc05IOWtNT3M3M3NubFRSQVhPdXItU1FmNjZUVTE4bmhFdU5IekoxdlJ3SUpIbEtQME1SdFVpbXRCTVlmMUU5UVQ1NU1BZS1Tb0otN0xpLWxCZkppTUFoYkxpV1h3dUNzbDRnd2FTR2ZlOThTcFpDODIwbTRwMm9SenMtRG8zclJ2LWJtSU9IZDZ6eGowNmd0WU9uRWQ1emlfUlFzQdIB9wFBVV95cUxPZ1FBS3BBRzlVOE56bmhEWDZpNTlSeHRiZFh5aUt4WDk1NkVCQ3FTRkpicERlMGJEREQ5UjBYSU1PNGdFSEp0ZV9xSnlNVVU0ZTVlcVg3OHF3dnVJN2hBVEFDYUs0LW1kajZnMHFiS1JqUDllaDV0VUd0dUh2MU05UmZVbV93VjlKdDlndm5IRS1ZcGotckxDYlFLZzRXUFlueTdrOUdQTlFVX09xSUJKX3FqTmtFQjVZZ2xING1GczE3OU80VklkR3c3bVR0SFZuU1ctY2tlLXcyOWpDMTNWTk9ZV0JjSUNwQ2FFVHpfSlJUMGhTNTM0"
+    },
+    {
+      "source": "iPhone Islam",
+      "title": "Elon Musk\u2019s AI \u2018Grok\u2019 arrives on iPhone CarPlay",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaURsZWl5cHZETElmRVBZams2dlpFNEZ4SjlWMm1BR1A4VktqZVVYS0ZVU01xRWQxengzQzNUV1diMlNIRlZPTGFIeHZjUzhIaUZtRWh1cTNTWmhsdWpIUVZob2x4aHB3UDRDUTVURUstY0NRdG96LXBudmNHWkVlTmhrWWI4S29rRkY0UGhzV1d0eFhoMGVaRUpQNUF2d1lLMkpvODJPOXNDQQ"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4"
+    },
+    {
+      "source": "MSN",
+      "title": "Cisco to give all 90,000 employees personal AI agents",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZldxR0dNaHFoMF9uazVJZlk3Q3RrVW1tMHdnYWROdUV2OGFZbWNqLTdZV2IwMkRic19CaV9tb2VGYzRiRWVZRlFDOTl3NjRTWW5kbVAtMGsxS2YyTUlodkpmNlExOFhlT1BHbWk2M1l3NTRCRW1LaG40VVRScGV1bEZlUWhYMmVRNE1DUllGODJQS1gzWDIxM2dZOE8yQzg"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed = hash('Super vs Grok|competitor_comparison|people comparing Super with Grok|2026-07-06T07:59:27.033120+00:00') \u2192 design=comparison-lab, typography=Cabinet Grotesk, components=[gapless-bento-grid, decision-matrix, source-card-dossier], gsap=[card-stacking, hover-physics]. AIDA Check: Hero=Attention, Comparison+Bento=Interest, Guide+Matrix=Desire, CTA Band=Action. Font Selection: Cabinet Grotesk (Fontshare). Hero Math Verification: clamp(44px\u201372px), max-width\u22481120px \u2192 2\u20133 lines. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded card stacking + hover physics. Label Sweep & Button Check: primary CTA black pill, secondary white pill, contrast verified.",
+  "generated_at": "2026-07-06T08:00:28.086309+00:00",
+  "headline": "Super vs Grok \u2014 Personal AI Agents Compared for Real Computer Work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats. Previous comparison-page failures omitted visible buyer-guide and decision-matrix language even when the article was useful; that must never happen. The visible page must include the exact phrases Buyer guide and Decision matrix.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair, source\u2011backed comparison of Super and Grok for people choosing a personal AI agent. Grok is evolving quickly as a voice\u2011first, opinionated assistant from xAI. Super is purpose\u2011built for repeated computer\u2011use workflows, with a reusable computer\u2011use cache that compounds efficiency over time. This page includes a Buyer guide, Decision matrix, and a long\u2011form field guide with practical evaluation steps, risks, FAQs, and sources."
+}
